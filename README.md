@@ -1,1 +1,2 @@
-/2035-logica-programacion-2-Aula1
+- [2034-logica-programacion-1-Aula1](./2034-logica-programacion-1-Aula1)
+- [2035-logica-programacion-2-Aula1](./2035-logica-programacion-2-Aula1)
